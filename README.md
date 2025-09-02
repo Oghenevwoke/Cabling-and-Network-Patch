@@ -62,31 +62,15 @@ I noticed that the PC had been changed within 4 days of working on it, which may
 As resolved my myself and Remote Support, XXX will need to send a new hard drive with the properly staged PC, and further testing will be required to ensure the issue is resolved.
 
 
-![Image](https://github.com/user-attachments/assets/6e9c0f5a-10b3-4e13-87e1-8aacbd8a53d1)
-![Image](https://github.com/user-attachments/assets/f45b088e-6bef-40d3-82d1-db79c0d344d7)
-![Image](https://github.com/user-attachments/assets/24f50b3e-4f0c-41b8-90a5-68f1009ef158)
-![Image](https://github.com/user-attachments/assets/8db6cccd-c9dd-43e3-9f9d-7fd17dbbce55)
-![Image](https://github.com/user-attachments/assets/44684783-0ac6-47c7-b590-ee565f39ee4f)
-![Image](https://github.com/user-attachments/assets/8f044723-e1aa-4c85-97ea-33e8b88184e9)
-![Image](https://github.com/user-attachments/assets/9992934f-c551-4c42-add8-d5553157b02d)
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
+
+<img src="https://github.com/user-attachments/assets/6e9c0f5a-10b3-4e13-87e1-8aacbd8a53d1" alt="Image 11" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/f45b088e-6bef-40d3-82d1-db79c0d344d7" alt="Image 12" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/24f50b3e-4f0c-41b8-90a5-68f1009ef158" alt="Image 13" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/8db6cccd-c9dd-43e3-9f9d-7fd17dbbce55" alt="Image 14" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/44684783-0ac6-47c7-b590-ee565f39ee4f" alt="Image 15" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/8f044723-e1aa-4c85-97ea-33e8b88184e9" alt="Image 16" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/9992934f-c551-4c42-add8-d5553157b02d" alt="Image 17" width="500" height="500">
 <!--
  ```diff
 - text in red
