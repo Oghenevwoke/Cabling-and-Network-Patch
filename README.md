@@ -62,7 +62,7 @@ I noticed that the PC had been changed within 4 days of working on it, which may
 As resolved my myself and Remote Support, XXX will need to send a new hard drive with the properly staged PC, and further testing will be required to ensure the issue is resolved.
 
 
-<img src="![Image](https://github.com/user-attachments/assets/6e9c0f5a-10b3-4e13-87e1-8aacbd8a53d1)
+![Image](https://github.com/user-attachments/assets/6e9c0f5a-10b3-4e13-87e1-8aacbd8a53d1)
 ![Image](https://github.com/user-attachments/assets/f45b088e-6bef-40d3-82d1-db79c0d344d7)
 ![Image](https://github.com/user-attachments/assets/24f50b3e-4f0c-41b8-90a5-68f1009ef158)
 ![Image](https://github.com/user-attachments/assets/8db6cccd-c9dd-43e3-9f9d-7fd17dbbce55)
